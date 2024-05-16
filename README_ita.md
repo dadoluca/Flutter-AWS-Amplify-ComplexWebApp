@@ -3,13 +3,13 @@ Questo repository contiene un'applicazione sviluppata utilizzando il framework F
 
 ## Architettura
 <div style="display: flex;">
-    <img src="pictures/Slide2.PNG" width="600" alt="Test Image 1">
+    <img src="pictures/Slide2.PNG" width="500" alt="Test Image 1">
 </div>
 
 ## Alcune UI
 <div style="display: flex;">
-    <img src="pictures/Slide3.PNG" width="400" alt="Test Image 1">
-    <img src="pictures/Slide4.PNG" width="400" alt="Test Image 1">
+    <img src="pictures/Slide3.PNG" width="450" alt="Test Image 1">
+    <img src="pictures/Slide4.PNG" width="450" alt="Test Image 1">
 </div>
 
 ## Tecnologie Utilizzate
@@ -36,7 +36,7 @@ L'applicazione è organizzata seguendo una struttura modulare e ben definita. Di
 ## Infrastruttura Cloud AWS
 L'applicazione fa uso dei servizi cloud di AWS per fornire funzionalità avanzate e scalabili:
 <div style="display: flex;">
-    <img src="pictures/Slide1.PNG" width="600" alt="Test Image 1">
+    <img src="pictures/Slide1.PNG" width="400" alt="Test Image 1">
 </div>
 
 - **AWS Amplify**: Utilizzato per l'orchestrazione e la gestione dei servizi cloud, semplificando lo sviluppo e il deployment dell'applicazione.
