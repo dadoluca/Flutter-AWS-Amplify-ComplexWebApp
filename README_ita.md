@@ -18,9 +18,9 @@ Questo repository contiene un'applicazione sviluppata utilizzando il framework F
 
 ## Architettura in Flutter
 - **Provider Pattern**: L'applicazione utilizza un sistema di gestione dello stato basato Provider, il package  di gestione dello stato più raccomandato dai fondatori di Flutter. Provider multipli consentono una gestione complessa e affidabile dello stato dell'applicazione.
-- **MVVM (Model-View-ViewModel)**: Blue Plan adotta un'architettura MVVM, separando la logica di business dalla presentazione dell'interfaccia utente per una migliore manutenibilità e scalabilità.
+- **MVVM (Model-View-ViewModel)**: L'applicazione adotta un'architettura MVVM, separando la logica di business dalla presentazione dell'interfaccia utente per una migliore manutenibilità e scalabilità.
 - **Routing di Flutter**: Il sistema di routing di Flutter è utilizzato per consentire una navigazione fluida tra le diverse schermate dell'applicazione, garantendo un'esperienza utente intuitiva.
-- **Approccio Stateless**: Blue Plan segue un approccio il più possibile statless per massimizzare le performance e ricostruire i widget solo quando strettamente necessario, ottimizzando l'utilizzo delle risorse del dispositivo.
+- **Approccio Stateless**: L'applicazione segue un approccio il più possibile statless per massimizzare le performance e ricostruire i widget solo quando strettamente necessario, ottimizzando l'utilizzo delle risorse del dispositivo.
 
 ### Struttura del Codice
 L'applicazione è organizzata seguendo una struttura modulare e ben definita. Di seguito sono elencate le cartelle più importanti:
@@ -34,7 +34,7 @@ L'applicazione è organizzata seguendo una struttura modulare e ben definita. Di
 - **models**: Contiene le classi corrispondenti alle “entità” del Data Model.
   
 ## Infrastruttura Cloud AWS
-Blue Plan fa uso dei servizi cloud di AWS per fornire funzionalità avanzate e scalabili:
+L'applicazione fa uso dei servizi cloud di AWS per fornire funzionalità avanzate e scalabili:
 <div style="display: flex;">
     <img src="pictures/Slide1.PNG" width="600" alt="Test Image 1">
 </div>
