@@ -1,6 +1,17 @@
 # WebApp Gestione Progetti con Flutter e AWS
 Questo repository contiene un'applicazione sviluppata utilizzando il framework Flutter e integrata con una robusta infrastruttura cloud di AWS. L'applicazione offre un'esperienza intuitiva e potente per la gestione dei progetti aziendali e per il supporto alla presa di decisioni. L'applicazione combina tecnologie innovative e soluzioni cloud scalabili.
 
+## Architettura
+<div style="display: flex;">
+    <img src="pictures/Slide2.PNG" width="600" alt="Test Image 1">
+</div>
+
+## Alcune UI
+<div style="display: flex;">
+    <img src="pictures/Slide3.PNG" width="400" alt="Test Image 1">
+    <img src="pictures/Slide4.PNG" width="400" alt="Test Image 1">
+</div>
+
 ## Tecnologie Utilizzate
 - **Flutter**: Il framework di Google, ha permesso uno sviluppo ***cross-platform*** e reattivo.
 - **AWS Amplify**: Una suite di servizi cloud di AWS che semplifica lo sviluppo di app scalabili e sicure, fornendo funzionalità di integrazione con la struttura cloud di Amazon Web Services.
@@ -24,6 +35,9 @@ L'applicazione è organizzata seguendo una struttura modulare e ben definita. Di
   
 ## Infrastruttura Cloud AWS
 Blue Plan fa uso dei servizi cloud di AWS per fornire funzionalità avanzate e scalabili:
+<div style="display: flex;">
+    <img src="pictures/Slide1.PNG" width="600" alt="Test Image 1">
+</div>
 
 - **AWS Amplify**: Utilizzato per l'orchestrazione e la gestione dei servizi cloud, semplificando lo sviluppo e il deployment dell'applicazione.
 - **Amazon Cognito**: Per l'autenticazione e l'autorizzazione degli utenti, garantendo un accesso sicuro alle risorse dell'applicazione.
