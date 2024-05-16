@@ -8,8 +8,8 @@ This repository contains an application developed using the Flutter framework an
 
 ## Some UI
 <div style="display: flex;">
-    <img src="pictures/Slide3.PNG" width="400" alt="Test Image 1">
-    <img src="pictures/Slide4.PNG" width="400" alt="Test Image 1">
+    <img src="pictures/Slide3.PNG" width="450" alt="Test Image 1">
+    <img src="pictures/Slide4.PNG" width="450" alt="Test Image 1">
 </div>
 
 ## Technologies Used
